@@ -24,6 +24,7 @@ add_message_files(
   Detection3D.msg
   ObjectHypothesis.msg
   ObjectHypothesisWithPose.msg
+  Point2D.msg
   VisionInfo.msg
 )
 
